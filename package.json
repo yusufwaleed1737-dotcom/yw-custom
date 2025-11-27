@@ -1,0 +1,24 @@
+{
+  "name": "yw-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufwaleed1737-dotcom/yw-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yusufwaleed1737-dotcom/yw-custom/issues"
+  },
+  "homepage": "https://github.com/yusufwaleed1737-dotcom/yw-custom#readme",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
